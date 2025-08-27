@@ -3,7 +3,7 @@
 
 زبان های برنامه نویسی : html5 / css3 / javascript 
 
-لایبرری های استفاده شده : swiper.js / font awesome
+کتابخانه های استفاده شده : swiper.js / font awesome
 
 دانشجو : امیرحسین زارع 
 استاد : خانم ریحانه حامدی
